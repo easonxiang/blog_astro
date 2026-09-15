@@ -31,5 +31,3 @@ public/pagefind
 
 # docker compose
 compose.override.yaml
-
-package-lock.json
