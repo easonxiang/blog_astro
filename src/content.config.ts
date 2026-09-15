@@ -10,12 +10,22 @@ const posts = defineCollection({
   schema: ({ image }) =>
     z.object({
       author: z.string().default(config.site.author),
-      pubDatetime: z.date(),
+	  //pubDatetime: z.date(),
+	  pubDatetime: z.coerce.date().optional().default(() => new Date()),
+      date: z.coerce.date().optional(),
       modDatetime: z.date().optional().nullable(),
       title: z.string(),
       featured: z.boolean().optional(),
       draft: z.boolean().optional(),
-      tags: z.array(z.string()).default(["others"]),
+      //tags: z.array(z.string()).default(["others"]),
+	  tags: z
+        .any()
+        .transform((val) => {
+          if (Array.isArray(val)) return val.map(String);
+          if (typeof val === 'string') return [val];
+          return ['uncategorized'];
+        })
+        .default(['uncategorized']),
       ogImage: image().or(z.string()).optional(),
       description: z.string(),
       canonicalURL: z.string().optional(),
