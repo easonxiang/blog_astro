@@ -49,6 +49,7 @@
     "typescript": "^6.0.3"
   },
   "allowScripts": {
-    "esbuild": true
+    "esbuild": true,
+    "fsevents@2.3.3": true
   }
 }
