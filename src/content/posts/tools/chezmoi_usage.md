@@ -4,10 +4,12 @@ slug: c6ab5be7
 image:
 date: 2026-09-17
 tags:
+  - chezmoi
+  - tools
+  - dotfile
 description: 好用的dotfile管理工具
-categories:
-  - 工具
 keywords:
+pubDatetime: 2026-09-16
 ---
 ## 前言
 
