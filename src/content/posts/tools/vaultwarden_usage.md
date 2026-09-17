@@ -3,13 +3,13 @@ title: Vaultwarden 使用介绍
 slug: e6b06417
 image: https://photo.weenas.com/T2NDqO.png
 date: 2023-08-13
-tags: 
+tags:
+  - tools
 description: Bitwarden自定义替代，密码集中管理工具
-categories:
-  - 工具
 keywords:
   - bitwarden
   - vaultwarden
+pubDatetime: 2023-08-13
 ---
 
 ## 简介

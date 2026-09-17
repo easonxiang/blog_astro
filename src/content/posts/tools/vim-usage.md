@@ -2,16 +2,16 @@
 title: vim 常用配置
 slug: 1054ef71
 date: 2017-02-03
-tags: 
+tags:
+  - tools
 description: 代码编辑器中的瑞士军刀。
-categories:
-  - 工具
 keywords:
   - vim
   - configuration
   - 配置
   - ctags
   - cscope
+pubDatetime: 2017-02-03
 ---
 
 VIM的强大无须多说，最强大的代码编辑器之一。多年使用下来积累了一些配置，在这里记录和分享。

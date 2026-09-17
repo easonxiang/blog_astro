@@ -4,12 +4,14 @@ slug: c81514bf
 image: https://photo.weenas.com/gtB7gP.png
 date: 2023-08-14T15:13:18+08:00
 description: 家庭代理新方案
-categories:
-  - 网络
 keywords:
   - proxy
   - openwrt
   - shadowsocks
+tags:
+  - network
+  - openwrt
+pubDatetime: 2023-08-14
 ---
 ## 简介
 

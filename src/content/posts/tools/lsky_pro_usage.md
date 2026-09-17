@@ -3,15 +3,15 @@ title: 如何创建私有图床
 slug: c6ab5be8
 image: https://photo.weenas.com/ngSPRO.png
 date: 2023-06-04
-tags: 
-description: 基于Docker和兰空图床建立私有图床，不再为图片存放发愁。
-categories:
+tags:
   - Docker
-  - 工具
+  - tools
+description: 基于Docker和兰空图床建立私有图床，不再为图片存放发愁。
 keywords:
   - docker
   - lsky
   - lsky-pro
+pubDatetime: 2026-06-04
 ---
 
 ![1685872464798.png](https://photo.weenas.com/ngSPRO.png)

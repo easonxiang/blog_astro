@@ -4,16 +4,17 @@ slug: 0c2be4d8
 image: https://photo.weenas.com/sUN8UI.jpg
 date: 2017-01-08
 description: none
-tags: 
-categories:
-  - 网络
-  - VPS
+tags:
+  - network
+  - linode
+  - vps
 keywords:
   - VPS
   - Linode
   - 迁移
   - migration
 hide: true
+pubDatetime: 2017-01-08
 ---
 
 Linode的稳定性一直是被广大网友所称道的，之前创建的时候没有做足功课，选择Location时选了加州机房。后来才知道，国内用户选择日本机房的响应速度更快，为此我还专门在日本机房新建了一个Host用来测试。测试结果表明，日本机房以80ms的延时完胜加州机房的220ms，而上传下载速度没有明显差别。这么大的优势，没有理由不切换过去呀。

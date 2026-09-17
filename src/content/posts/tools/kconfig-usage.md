@@ -9,7 +9,7 @@ description: 通过Kconfig为软件工程增加可配置功能，模块编译的
 keywords:
   - kconfig
   - kconfiglib
-pubDatetime: 2022-06-06T04:06:31Z
+pubDatetime: 2022-06-05
 ---
 
 ## 简介

@@ -2,10 +2,11 @@
 title: Shadowsocks Configuration
 slug: 216698eb
 date: 2017-12-06 15:56:43
-tags: 
-categories:
-  - 工具
+tags:
+  - tools
+  - vpn
 description: none
+pubDatetime: 2017-12-06
 ---
 
 ## Introduction

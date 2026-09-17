@@ -4,9 +4,11 @@ slug: bcc7294e
 date: 2024-06-07T15:58:29+08:00
 image: https://photo.weenas.com/een1q3.jpg
 description: none
-categories:
-  - 旅游
-  - 摄影
+tags:
+  - travel
+  - tibet
+  - photo
+pubDatetime: 2024-06-07
 ---
 
 ## 7月1日

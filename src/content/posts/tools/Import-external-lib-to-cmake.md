@@ -1,17 +1,15 @@
 ---
 title: CMake如何导入外部库
 slug: e9d6206c
-date: 2021-12-03
 tags:
   - cmake
+  - tools
 description: How to import external static library in CMake.
-categories:
-  - 工具
-  - CMake
 keywords:
   - cmake
   - add_library
 hide: false
+pubDatetime: 2021-03-12
 ---
 
 在项目中有时会用到第三方的lib库，如果使用CMake可以非常方便的导入到项目中。

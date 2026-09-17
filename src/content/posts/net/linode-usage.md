@@ -3,15 +3,16 @@ title: linode 使用记
 slug: 8db64a10
 image: https://photo.weenas.com/sUN8UI.jpg
 date: 2016-12-21 14:48:15
-tags: 
+tags:
+  - network
+  - linode
+  - vps
 description: VPS初体验
-categories:
-  - 网络
-  - VPS
 keywords:
   - VPS
   - linode
 hide: true
+pubDatetime: 2016-12-21
 ---
 
 使用Linode也有一段时间了，感觉非常不错，虽然使用的是加州的机房，延时基本上稳定在200ms左右，web访问感觉不明显，ssh尚可接受。据说日本机房在100ms多一点，但是考虑到要做迁移工作，还是先保持不动吧，待有时间再研究。

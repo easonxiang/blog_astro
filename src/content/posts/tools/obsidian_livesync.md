@@ -3,16 +3,16 @@ title: Obsidian多设备实时同步方法
 slug: 2edeaaaf
 image: https://photo.weenas.com/WLP8JP.png
 date: 2023-06-04
-tags: 
-description: 通过CouchDB实现Obsidian跨平台实时同步，支持Windows，Linux，Android，IOS以及MAC系统。
-categories:
+tags:
   - Docker
-  - 工具
+  - tools
+description: 通过CouchDB实现Obsidian跨平台实时同步，支持Windows，Linux，Android，IOS以及MAC系统。
 keywords:
   - docker
   - obsidian
   - couchdb
   - livesync
+pubDatetime: 2023-06-04
 ---
 
 ![Obsidian](https://photo.weenas.com/WLP8JP.png)
