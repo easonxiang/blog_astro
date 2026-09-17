@@ -1,6 +1,5 @@
 ---
 title: 家庭网络结构
-slug: home-network-structure
 image: https://photo.weenas.com/FYn4Vq.png
 date: 2024-06-06T00:00:00+08:00
 description: 详细介绍家庭网络拓扑结构，包括路由器、交换机等设备的配置与优化

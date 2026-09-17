@@ -1,6 +1,5 @@
 ---
 title: Shadowsocks Configuration
-slug: 216698eb
 date: 2017-12-06 15:56:43
 tags:
   - tools

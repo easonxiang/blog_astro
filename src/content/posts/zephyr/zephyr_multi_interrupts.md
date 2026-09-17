@@ -1,6 +1,5 @@
 ---
 title: Zephyr 多级中断
-slug: 7759f387
 image: https://photo.weenas.com/bmUTlD.jpg
 date: 2019-01-17
 tags:

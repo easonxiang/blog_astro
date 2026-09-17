@@ -2,13 +2,13 @@
 title: 如何实现双栈访问家庭网络
 date: 2025-11-24T18:53:13+08:00
 image: https://photo.weenas.com/cT0W3h.png
-slug: 4ce823d8
 tags:
   - network
 keywords:
 description: none
 pubDatetime: 2025-11-24
 ---
+## Table of contents
 
 全球IPv4资源日益紧张，中国宽带运营商现在通常不提供公网IPv4地址，公网默认只有IPv6地址，在这种情况下，想通过公网访问家庭资源，就要求必须使用IPv6链路访问。虽然移动运营商已经普及了IPv6，使用移动设备通过流量访问没有任何问题，但在实际使用过程中，包括公司、商场等公共网络普遍只支持IPv4，这时和家庭网络完全处于隔离状态。
 

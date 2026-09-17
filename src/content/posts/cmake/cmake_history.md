@@ -1,6 +1,5 @@
 ---
 title: CMake 历史和原理简析
-slug: 51de2551
 image: https://cmake.org/wp-content/uploads/2023/08/Cross_Platform_Testing.png
 date: 2024-07-06 15:56:43
 tags:

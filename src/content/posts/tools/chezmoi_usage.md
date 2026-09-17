@@ -1,6 +1,5 @@
 ---
 title: Chezmoi 使用简介
-slug: c6ab5be7
 image:
 date: 2026-09-17
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Obsidian多设备实时同步方法
-slug: 2edeaaaf
 image: https://photo.weenas.com/WLP8JP.png
 date: 2023-06-04
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Kconfig 简介
-slug: 0a1c6959
 image: https://photo.weenas.com/8l3G1D.png
 date: 2022-06-05
 tags:

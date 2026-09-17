@@ -1,6 +1,5 @@
 ---
 title: vim 常用配置
-slug: 1054ef71
 date: 2017-02-03
 tags:
   - tools

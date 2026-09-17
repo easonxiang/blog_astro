@@ -1,6 +1,5 @@
 ---
 title: CMake如何导入外部库
-slug: e9d6206c
 tags:
   - cmake
   - tools

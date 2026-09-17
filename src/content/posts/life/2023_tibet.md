@@ -1,6 +1,5 @@
 ---
 title: 2023年西藏自驾游
-slug: bcc7294e
 date: 2024-06-07T15:58:29+08:00
 image: https://photo.weenas.com/een1q3.jpg
 description: none

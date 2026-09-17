@@ -1,6 +1,5 @@
 ---
-title: 如何创建私有图床
-slug: c6ab5be8
+title: 如何使用LSKY创建私有图床
 image: https://photo.weenas.com/ngSPRO.png
 date: 2023-06-04
 tags:

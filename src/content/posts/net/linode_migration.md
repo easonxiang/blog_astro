@@ -1,6 +1,5 @@
 ---
 title: linode 迁移
-slug: 0c2be4d8
 image: https://photo.weenas.com/sUN8UI.jpg
 date: 2017-01-08
 description: none

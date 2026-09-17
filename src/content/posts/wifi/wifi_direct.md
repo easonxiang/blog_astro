@@ -1,6 +1,5 @@
 ---
 title: Wi-Fi Direct 协议
-slug: 043cc525
 image: https://photo.weenas.com/r1NqAV.png
 date: 2016-12-22
 tags:

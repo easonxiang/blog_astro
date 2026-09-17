@@ -2,19 +2,19 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
+    url: "https://blog-astro-92t.pages.dev/",
+    title: "Weenas Blog",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    author: "Eason Xiang",
+    profile: "https://github.com/easonxiang",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Asia/Shanghai",
     dir: "ltr",
   },
   posts: {
-    perPage: 4,
-    perIndex: 4,
+    perPage: 8,
+    perIndex: 8,
     scheduledPostMargin: 15 * 60 * 1000,
   },
   features: {
@@ -23,8 +23,8 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      enabled: false,
+      url: "https://github.com/easonxiang/blog_astro/blob/master/",
     },
     search: "pagefind",
   },
